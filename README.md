@@ -11,6 +11,7 @@ To use this repo, you first need to have proper [AWS Credentials](https://docs.a
 - Terraform S3 remote backend
 - ECS Cluster Creation
 - Service Discovery private DNS namespace creation
+- IAM pipeline User for access key/secret key
 
 ## Requirements
 
