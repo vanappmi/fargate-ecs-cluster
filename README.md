@@ -15,7 +15,14 @@ To use this repo, you first need to have proper [AWS Credentials](https://docs.a
 
 ## Requirements
 
-No requirements.
+[Terraform](https://www.terraform.io/downloads.html) installed
+
+AWS Credentials [set up](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html)
+
+## Usage
+`terraform init`
+
+`terraform apply`
 
 ## Providers
 
